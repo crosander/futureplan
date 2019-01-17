@@ -1,0 +1,17 @@
+- Landvetter väderkategorier, automatförslag
+
+- Markedskraft, automattexter
+
+- Molnighet och vind till TrV:s områdesprognoser, automattexter
+
+- TrvEdit -> webb-gränssnitt (React, Node)
+
+- SMSGui -> webbgränssnitt (React, Node)
+
+- branschEdit, nytt webb-gränssnitt (React, Node)
+
+- TrV:s områdesprognoser till TrvEdit Web
+
+- TrV:s översiktstexter till TrvEdit Web
+
+- Korrekt frost och mängd vatten per timma
