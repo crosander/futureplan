@@ -2,8 +2,6 @@
 
 - SMSGui -> webbgränssnitt (React, Node)
 
-- branschEdit, nytt webb-gränssnitt i vintervag.smhi.se (React, Node) -> komma bort från FRODO
-
 - Låta SMS-program och auto-branschkommentarerna läsa Joels orter (A-team)
 
 - TrV:s omrädesprognoser till TrvEdit Web -> komma bort från SIR
@@ -20,14 +18,16 @@
 
 - Rensa upp i prodgbg:s svn för källkod så att det matchar strukturen i ecflow-svn
 
-- EMIL -> måste bli applikations-driftare
+- EMIL måste bli applikations-driftare
 
 - Textautomatisering
-    * Markedskraft, automattexter
+    * Markedskraft, automattexter, skapa plan för framtida editor
     * Landvetter väderkategorier, automatförslag
-    * Branschkommentarer
+    * Branschkommentarer, branschEdit, nytt webb-gränssnitt i vintervag.smhi.se (React, Node) -> komma bort från FRODO
     * TrV nbd- och temp-texter, i drift men kan förbättras
     * Molnighet och vind till TrV:s områdesprognoser, automattexter
+
+- Se över Ape:s produktion och kartlägga vad som skrivs i FRODO. Planera för ett framtida alternativ - en lösning som faller inom befintliga/kommande system.
 
 - Beräkna frost utifrån faktisk utfälld/kondenserad vattenmängd per timme på vägytan -> kvalitetsförbättring
 
