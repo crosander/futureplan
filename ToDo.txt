@@ -1,14 +1,14 @@
-- TrvEdit -> webb-gr�nssnitt i trv.smhi.se/TrvEdit (React, Node)
+- TrvEdit -> webb-gränssnitt i trv.smhi.se/TrvEdit (React, Node)
 
-- SMSGui -> webbgr�nssnitt (React, Node)
+- SMSGui -> webbgränssnitt (React, Node)
 
-- branschEdit, nytt webb-gr�nssnitt i vintervag.smhi.se (React, Node) -> komma bort från FRODO
+- branschEdit, nytt webb-gränssnitt i vintervag.smhi.se (React, Node) -> komma bort från FRODO
 
 - Låta SMS-program och auto-branschkommentarerna läsa Joels orter (A-team)
 
-- TrV:s omr�desprognoser till TrvEdit Web -> komma bort från SIR
+- TrV:s omrädesprognoser till TrvEdit Web -> komma bort från SIR
 
-- TrV:s �versiktstexter till TrvEdit Web  -> komma bort från SIR
+- TrV:s äversiktstexter till TrvEdit Web  -> komma bort från SIR
 
 - Skriptet trv_skapa_optionskarta.py måste bli säkrare; hantera sommar-/vintertid m.m.
 
@@ -24,11 +24,13 @@
 
 - Textautomatisering
     * Markedskraft, automattexter
-    * Landvetter v�derkategorier, automatf�rslag
+    * Landvetter väderkategorier, automatförslag
     * Branschkommentarer
     * TrV nbd- och temp-texter, i drift men kan förbättras
-    * Molnighet och vind till TrV:s omr�desprognoser, automattexter
+    * Molnighet och vind till TrV:s områdesprognoser, automattexter
 
 - Beräkna frost utifrån faktisk utfälld/kondenserad vattenmängd per timme på vägytan -> kvalitetsförbättring
 
 - FRAMTID: När textautomatiseringen är tillfredsställande -> kunna editera underliggande prognosmaterialet
+
+Ny rad
