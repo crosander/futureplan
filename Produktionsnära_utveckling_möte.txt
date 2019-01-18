@@ -3,9 +3,8 @@ Nu när Susanne Carmblad är på plats känns det som rätt läge att ta ett mö
 •	Christian och Emil: Hur ser det ut med förutsättningar på det personliga planet? Vilka möjligheter eller begränsningar ser ni var och en? Vilka tankar/önskemål har ni var och en? 
 
     * Christian: inga större skillnader mot idag. Största skillnaden är pendling inom Gbg
+    * Emil:      En timme längre och möjligheten att bilpendla som nu försvinner i princip.
     * Om förutsättningarna blir liknande som i Malmö (övernattning etc.) kan det bli skapligt likt det vi har nu. Plus tiden för pendling inom Gbg
-    * Möjligheter att jobba (mycket) hemma är avgörande
-    * Ett minimum i produktion
 
 •	Susanne x2 + Krister B: Vad vet vi/tror vi om arbetsuppgifter (inriktning/omfattning) nu och framåt?
 
@@ -13,13 +12,15 @@ Nu när Susanne Carmblad är på plats känns det som rätt läge att ta ett mö
 
 •	Vilka tänkbara alternativ för organisation av arbetet ser vi?
 
-    * Emil, Magnus och Christian som team med ansvar för den produktionsnära delen.
+    * Emil, Magnus Nilsson och Christian som team med ansvar för den produktionsnära delen.
     * Gränsyta mot A-team
-    * Vi har spånat kring att ha produktionsnära utvecklare på S (Mattias, Jonatan, ...). Möjligt att alla meteorologer framöver flyttas över till S.
+    * Vi har spånat kring att ha produktionsnära utvecklare på S (Mattias Lindh, Jonatan Kvernby, ...).
 
 •	Hur går vi vidare?
 
     * Organisationstillhörighet nu/snart?
+    * Ska vi skrivas över till ngt nytt nu, behöver vi ha kvar kontorstillhörighet Malmö
+    * Emil, tillhörighet?
 
 •	Övriga frågor
 
