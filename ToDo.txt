@@ -32,5 +32,3 @@
 - Beräkna frost utifrån faktisk utfälld/kondenserad vattenmängd per timme på vägytan -> kvalitetsförbättring
 
 - FRAMTID: När textautomatiseringen är tillfredsställande -> kunna editera underliggande prognosmaterialet
-
-Ny rad
