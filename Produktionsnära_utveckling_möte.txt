@@ -1,0 +1,25 @@
+Hej!
+Nu när Susanne Carmblad är på plats känns det som rätt läge att ta ett möte där vi pratar om produktionsnära utveckling. Några av punkterna vi behöver prata om är:
+•	Christian och Emil: Hur ser det ut med förutsättningar på det personliga planet? Vilka möjligheter eller begränsningar ser ni var och en? Vilka tankar/önskemål har ni var och en? 
+    * Begränsning: Christian; inga större skillnader mot idag. Största skillnaden är pendling inom Gbg
+    * Möjlighet:   Om förutsättningarna blir liknande som i Malmö (övernattning etc.) kan det bli skapligt likt det vi har nu. Plus tiden för pendling inom Gbg
+
+•	Susanne x2 + Krister B: Vad vet vi/tror vi om arbetsuppgifter (inriktning/omfattning) nu och framåt?
+    * ToDo.txt
+
+•	Vilka tänkbara alternativ för organisation av arbetet ser vi?
+    * Emil, Magnus och Christian som team med ansvar för den produktionsnära delen.
+    * Gränsyta mot A-team
+    * Vi har spånat kring att ha produktionsnära utvecklare på S (Mattias, Jonatan, ...). Möjligt att alla meteorologer framöver flyttas över till S.
+
+•	Hur går vi vidare?
+    * Organisationstillhörighet nu/snart
+
+•	Övriga frågor
+    * Vad händer om C flyttar till Gbg eller Norrköping?
+
+Vi sätter av en knapp timme för detta möte med planen att vi efter mötet har identifierat ett antal aktiviteter/frågor att gå vidare med.
+
+Vi kopplar upp oss på Cisco. Jag undrar om det kan funka om ni ringer upp mitt space a001225.cospace@video.smhi.se. 
+Mvh
+Susanne

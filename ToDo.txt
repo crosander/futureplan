@@ -31,4 +31,6 @@
 
 - Beräkna frost utifrån faktisk utfälld/kondenserad vattenmängd per timme på vägytan -> kvalitetsförbättring
 
+- Hur blir vi bättre på att jobba på distans?
+
 - FRAMTID: När textautomatiseringen är tillfredsställande -> kunna editera underliggande prognosmaterialet
