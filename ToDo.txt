@@ -4,9 +4,9 @@
 
 - Låta SMS-program och auto-branschkommentarerna läsa Joels orter (A-team)
 
-- TrV:s omrädesprognoser till TrvEdit Web -> komma bort från SIR
+- TrV:s områdesprognoser till TrvEdit Web -> komma bort från SIR
 
-- TrV:s äversiktstexter till TrvEdit Web  -> komma bort från SIR
+- TrV:s översiktstexter till TrvEdit Web  -> komma bort från SIR
 
 - Skriptet trv_skapa_optionskarta.py måste bli säkrare; hantera sommar-/vintertid m.m.
 
@@ -16,7 +16,11 @@
 
 - Rationalisera handhavande-kedjan för optionskartan
 
-- Rensa upp i prodgbg:s svn för källkod så att det matchar strukturen i ecflow-svn
+- Rensa upp i prodgbg:s SVN för källkod så att det matchar strukturen i ecflow-svn
+
+- Skapa ordning i "normal"-träsket för Gbg
+
+- Klusterprogrammet
 
 - EMIL måste bli applikations-driftare
 
